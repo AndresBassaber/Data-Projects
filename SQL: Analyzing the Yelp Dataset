@@ -1,6 +1,6 @@
-# SQL Data Analyst Role Play: Profiling and Analyzing the Yelp Dataset
+SQL Data Analyst Role Play: Profiling and Analyzing the Yelp Dataset
 
-## Overview
+Overview
 This project focuses on profiling and analyzing the **Yelp dataset**, providing insights into business trends, customer behaviors, and other key metrics. The project uses SQL to extract meaningful information and answer important analytical questions.
 
 Explore the project on my portfolio site:
@@ -8,14 +8,14 @@ https://ecohakusho.com/data-analysis/data-analyst-role-play-profiling-and-analyz
 
 ---
 
-## Objectives
+Objectives
 - Perform data profiling to understand the structure and content of the Yelp dataset.
 - Use SQL queries to extract insights related to customer reviews, business categories, and user activity.
 - Answer analytical questions that drive key decisions.
 
 ---
 
-## Key Insights
-1. **Top Business Categories**: Identified the most popular business categories based on user reviews and ratings.
-2. **Customer Behavior Analysis**: Uncovered trends in user activity, including most active reviewers and peak review periods.
-3. **Review Sentiment**: Explored the distribution of ratings to gauge overall user satisfaction.
+Key Insights
+1. Top Business Categories: Identified the most popular business categories based on user reviews and ratings.
+2. Customer Behavior Analysis: Uncovered trends in user activity, including most active reviewers and peak review periods.
+3. Review Sentiment: Explored the distribution of ratings to gauge overall user satisfaction.
